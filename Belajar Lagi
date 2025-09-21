@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kurang Jago Elu Broo</title>
+  <style>
+    body {
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #1e293b, #7c3aed);
+      color: #facc15;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: bold;
+      font-size: 2.5rem;
+      text-align: center;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+  Kurang Jago Elu Broo, Tricklu Pasaran
+</body>
+</html>
